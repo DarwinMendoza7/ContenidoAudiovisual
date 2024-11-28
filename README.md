@@ -57,7 +57,7 @@ Si git está instalado, verás la versión correspondiente. Si no está instalad
 - Selecciona File luego Import y luego Existing Projects Into Workspace y pulsa en Next.
 - Navega hasta la carpeta donde clonaste el proyecto y haz clic en Finish.  
 
-**6.** En la vista de Proyecto, encuentra la clase PruebaAudiovisual, haz clic derecho sobre la clase y selecciona Run As y luego Java Application.
+**6.** En la vista de Proyecto, encuentra la clase Main, haz clic derecho sobre la clase y selecciona Run As y luego Java Application.
 
 **Para clonar directamente desde Eclipse sigue estos pasos:**
 
@@ -69,7 +69,7 @@ Si git está instalado, verás la versión correspondiente. Si no está instalad
 **6.** En la ventana Select a wizard to use for importing projects, selecciona Import using the New Project wizard y haz clic en Finish.  
 **7.** Se abrirá una ventana donde debes seleccionar el tipo de proyecto, elige Java Project en la carpeta de Java.  
 **8.** Aparecerá una ventana para crear el nuevo proyecto. Ingresa el nombre del proyecto que desees, desmarca la opción que dice Use default location, y escoge la carpeta donde se clonó el proyecto. Luego haz clic en Finish.  
-**9.** Por último, navega a la clase Prueba Audiovisual, haz clic derecho sobre ella, selecciona Run As, y luego elige Java Application.  
+**9.** Por último, navega a la clase Main, haz clic derecho sobre ella, selecciona Run As, y luego elige Java Application.  
 ## Instrucciones para ejecutar las Pruebas Unitarias ##
 **1.** Inicia Eclipse.  
 **2.** Asegurate de que JUnit esté configurado, si no está configurada, puedes agregarla siguiendo estos pasos:  
